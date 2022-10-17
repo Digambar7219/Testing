@@ -17,6 +17,12 @@ public class A
 	public void m2()
 	{
 		System.out.println("hello digmbar");
+	
+	}
+	public void m4()
+	{
+		System.out.println("hello digmbar from eclipse");
+	
 	}
 	
 }
