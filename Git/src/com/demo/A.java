@@ -14,5 +14,9 @@ public class A
 	{
 		System.out.println("welcome to github");
 	}
+	public void m2()
+	{
+		System.out.println("welcome to github");
+	}
 	
 }
