@@ -2,6 +2,10 @@ package com.demo;
 
 public class A 
 {
+	public static void main(String[] args) 
+	{
+		
+	}
 	public void m1() 
 	{
 		System.out.println("hello bro");
@@ -11,16 +15,4 @@ public class A
 		System.out.println("welcome to github");
 	}
 	
-	
-		
-		
-	
-	
-	
-	
-	
-		
-		
-	
-
 }
