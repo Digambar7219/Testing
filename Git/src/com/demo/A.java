@@ -16,7 +16,7 @@ public class A
 	}
 	public void m2()
 	{
-		System.out.println("welcome to github");
+		System.out.println("hello digmbar");
 	}
 	
 }
