@@ -19,7 +19,7 @@ public class A
 		System.out.println("hello digmbar");
 	
 	}
-	public void m4()
+	public void m5()
 	{
 		System.out.println("hello digmbar from eclipse76767777777");
 	
